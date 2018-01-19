@@ -1,0 +1,26 @@
+Load train set features...
+Train classifier...
+Training done. 
+
+Save classifier...
+Load test set features...
+Load classifier...
+Start classification...
+
+Confusion matrix:
+Predicted     0    1   
+True
+0          [1891    12]
+1          [ 79     111]
+Time-point based fusion...
+
+FINAL RESULT:
+Ground truth:
+Eating minutes: 12
+Number FG: 34
+KCal Estimation: 1420
+
+Prediction:
+Eating minutes: 14
+Number FG: 35
+KCal Estimation: 1581
